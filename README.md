@@ -1,5 +1,5 @@
 # Unrolled Generative Adversarial Networks
-[Luke Metz](http://lukemetz.github.io/), [Ben Poole](http://cs.stanford.edu/`poole), [David Pfau](http://davidpfau.com/), [Jascha Sohl-Dickstein](http://www.sohldickstein.com)<br/>
+[Luke Metz](http://lukemetz.github.io/), [Ben Poole](http://cs.stanford.edu/~poole), [David Pfau](http://davidpfau.com/), [Jascha Sohl-Dickstein](http://www.sohldickstein.com)<br/>
 [arxiv:1611.02163](https://arxiv.org/abs/1611.02163)
 
 This repo contains an example notebook with a TensorFlow implementaiton of unrolled GANs on a 2d spiral dataset.
